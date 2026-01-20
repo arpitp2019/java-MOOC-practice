@@ -4,6 +4,6 @@ This repository contains my solutions for the [University of Helsinki Java Progr
 
 ## Progress
 - [x] Part 1 -  Done
-- [x] Part 2 -  
-- [x] Part 4
-- [ ] Part 5
+- [x] Part 2 -  Done
+- [x] Part 4 -  Done
+- [x] Part 5 - Starting soon!
