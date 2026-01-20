@@ -1,0 +1,19 @@
+1. always use double quote for string in JAVA
+
+char a = "this is arpit"
+
+
+2. use 
+
+/exit
+
+to exit jshell
+
+3. jshell 
+/list
+
+
+
+4. sout command to print System.out.println("")
+
+5. 

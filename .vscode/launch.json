@@ -1,0 +1,511 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Sandbox",
+            "request": "launch",
+            "mainClass": "Sandbox",
+            "projectName": "Part01_01.Sandbox"
+        },
+        {
+            "type": "java",
+            "name": "AdaLovelace",
+            "request": "launch",
+            "mainClass": "AdaLovelace",
+            "projectName": "Part01_02.AdaLovelace"
+        },
+        {
+            "type": "java",
+            "name": "OnceUponATime",
+            "request": "launch",
+            "mainClass": "OnceUponATime",
+            "projectName": "Part01_03.OnceUponATime"
+        },
+        {
+            "type": "java",
+            "name": "Dinosaur",
+            "request": "launch",
+            "mainClass": "Dinosaur",
+            "projectName": "Part01_04.Dinosaur"
+        },
+        {
+            "type": "java",
+            "name": "Message",
+            "request": "launch",
+            "mainClass": "Message",
+            "projectName": "Part01_05.Message"
+        },
+        {
+            "type": "java",
+            "name": "HiAdaLovelace",
+            "request": "launch",
+            "mainClass": "HiAdaLovelace",
+            "projectName": "Part01_06.HiAdaLovelace"
+        },
+        {
+            "type": "java",
+            "name": "MessageThreeTimes",
+            "request": "launch",
+            "mainClass": "MessageThreeTimes",
+            "projectName": "Part01_07.MessageThreeTimes"
+        },
+        {
+            "type": "java",
+            "name": "Greeting",
+            "request": "launch",
+            "mainClass": "Greeting",
+            "projectName": "Part01_08.Greeting"
+        },
+        {
+            "type": "java",
+            "name": "Conversation",
+            "request": "launch",
+            "mainClass": "Conversation",
+            "projectName": "Part01_09.Conversation"
+        },
+        {
+            "type": "java",
+            "name": "Story",
+            "request": "launch",
+            "mainClass": "Story",
+            "projectName": "Part01_10.Story"
+        },
+        {
+            "type": "java",
+            "name": "VariousVariables",
+            "request": "launch",
+            "mainClass": "VariousVariables",
+            "projectName": "Part01_11.VariousVariables"
+        },
+        {
+            "type": "java",
+            "name": "IntegerInput",
+            "request": "launch",
+            "mainClass": "IntegerInput",
+            "projectName": "Part01_12.IntegerInput"
+        },
+        {
+            "type": "java",
+            "name": "DoubleInput",
+            "request": "launch",
+            "mainClass": "DoubleInput",
+            "projectName": "Part01_13.DoubleInput"
+        },
+        {
+            "type": "java",
+            "name": "BooleanInput",
+            "request": "launch",
+            "mainClass": "BooleanInput",
+            "projectName": "Part01_14.BooleanInput"
+        },
+        {
+            "type": "java",
+            "name": "DifferentTypesOfInput",
+            "request": "launch",
+            "mainClass": "DifferentTypesOfInput",
+            "projectName": "Part01_15.DifferentTypesOfInput"
+        },
+        {
+            "type": "java",
+            "name": "SecondsInADay",
+            "request": "launch",
+            "mainClass": "SecondsInADay",
+            "projectName": "Part01_16.SecondsInADay"
+        },
+        {
+            "type": "java",
+            "name": "SumOfTwoNumbers",
+            "request": "launch",
+            "mainClass": "SumOfTwoNumbers",
+            "projectName": "Part01_17.SumOfTwoNumbers"
+        },
+        {
+            "type": "java",
+            "name": "SumOfThreeNumbers",
+            "request": "launch",
+            "mainClass": "SumOfThreeNumbers",
+            "projectName": "Part01_18.SumOfThreeNumbers"
+        },
+        {
+            "type": "java",
+            "name": "AdditionFormula",
+            "request": "launch",
+            "mainClass": "AdditionFormula",
+            "projectName": "Part01_19.AdditionFormula"
+        },
+        {
+            "type": "java",
+            "name": "MultiplicationFormula",
+            "request": "launch",
+            "mainClass": "MultiplicationFormula",
+            "projectName": "Part01_20.MultiplicationFormula"
+        },
+        {
+            "type": "java",
+            "name": "AverageOfTwoNumbers",
+            "request": "launch",
+            "mainClass": "AverageOfTwoNumbers",
+            "projectName": "Part01_21.AverageOfTwoNumbers"
+        },
+        {
+            "type": "java",
+            "name": "AverageOfThreeNumbers",
+            "request": "launch",
+            "mainClass": "AverageOfThreeNumbers",
+            "projectName": "Part01_22.AverageOfThreeNumbers"
+        },
+        {
+            "type": "java",
+            "name": "SimpleCalculator",
+            "request": "launch",
+            "mainClass": "SimpleCalculator",
+            "projectName": "Part01_23.SimpleCalculator"
+        },
+        {
+            "type": "java",
+            "name": "SpeedingTicket",
+            "request": "launch",
+            "mainClass": "SpeedingTicket",
+            "projectName": "Part01_24.SpeedingTicket"
+        },
+        {
+            "type": "java",
+            "name": "CheckYourIndentation",
+            "request": "launch",
+            "mainClass": "CheckYourIndentation",
+            "projectName": "Part01_25.CheckYourIndentation"
+        },
+        {
+            "type": "java",
+            "name": "Orwell",
+            "request": "launch",
+            "mainClass": "Orwell",
+            "projectName": "Part01_26.Orwell"
+        },
+        {
+            "type": "java",
+            "name": "Ancient",
+            "request": "launch",
+            "mainClass": "Ancient",
+            "projectName": "Part01_27.Ancient"
+        },
+        {
+            "type": "java",
+            "name": "Positivity",
+            "request": "launch",
+            "mainClass": "Positivity",
+            "projectName": "Part01_28.Positivity"
+        },
+        {
+            "type": "java",
+            "name": "Adulthood",
+            "request": "launch",
+            "mainClass": "Adulthood",
+            "projectName": "Part01_29.Adulthood"
+        },
+        {
+            "type": "java",
+            "name": "LargerThanOrEqualTo",
+            "request": "launch",
+            "mainClass": "LargerThanOrEqualTo",
+            "projectName": "Part01_30.LargerThanOrEqualTo"
+        },
+        {
+            "type": "java",
+            "name": "GradesAndPoints",
+            "request": "launch",
+            "mainClass": "GradesAndPoints",
+            "projectName": "Part01_31.gradesAndPoints"
+        },
+        {
+            "type": "java",
+            "name": "OddOrEven",
+            "request": "launch",
+            "mainClass": "OddOrEven",
+            "projectName": "Part01_32.OddOrEven"
+        },
+        {
+            "type": "java",
+            "name": "Password",
+            "request": "launch",
+            "mainClass": "Password",
+            "projectName": "Part01_33.Password"
+        },
+        {
+            "type": "java",
+            "name": "Same",
+            "request": "launch",
+            "mainClass": "Same",
+            "projectName": "Part01_34.Same"
+        },
+        {
+            "type": "java",
+            "name": "CheckingTheAge",
+            "request": "launch",
+            "mainClass": "CheckingTheAge",
+            "projectName": "Part01_35.CheckingTheAge"
+        },
+        {
+            "type": "java",
+            "name": "LeapYear",
+            "request": "launch",
+            "mainClass": "LeapYear",
+            "projectName": "Part01_36.LeapYear"
+        },
+        {
+            "type": "java",
+            "name": "GiftTax",
+            "request": "launch",
+            "mainClass": "GiftTax",
+            "projectName": "Part01_37.GiftTax"
+        },
+        {
+            "type": "java",
+            "name": "Squared",
+            "request": "launch",
+            "mainClass": "Squared",
+            "projectName": "Part02_01.Squared"
+        },
+        {
+            "type": "java",
+            "name": "SquareRootOfSum",
+            "request": "launch",
+            "mainClass": "SquareRootOfSum",
+            "projectName": "Part02_02.SquareRootOfSum"
+        },
+        {
+            "type": "java",
+            "name": "AbsoluteValue",
+            "request": "launch",
+            "mainClass": "AbsoluteValue",
+            "projectName": "Part02_03.AbsoluteValue"
+        },
+        {
+            "type": "java",
+            "name": "ComparingNumbers",
+            "request": "launch",
+            "mainClass": "ComparingNumbers",
+            "projectName": "Part02_04.ComparingNumbers"
+        },
+        {
+            "type": "java",
+            "name": "CarryOn",
+            "request": "launch",
+            "mainClass": "CarryOn",
+            "projectName": "Part02_05.CarryOn"
+        },
+        {
+            "type": "java",
+            "name": "AreWeThereYet",
+            "request": "launch",
+            "mainClass": "AreWeThereYet",
+            "projectName": "Part02_06.AreWeThereYet"
+        },
+        {
+            "type": "java",
+            "name": "OnlyPositives",
+            "request": "launch",
+            "mainClass": "OnlyPositives",
+            "projectName": "Part02_07.OnlyPositives"
+        },
+        {
+            "type": "java",
+            "name": "NumberOfNumbers",
+            "request": "launch",
+            "mainClass": "NumberOfNumbers",
+            "projectName": "Part02_08.NumberOfNumbers"
+        },
+        {
+            "type": "java",
+            "name": "NumberOfNegativeNumbers",
+            "request": "launch",
+            "mainClass": "NumberOfNegativeNumbers",
+            "projectName": "Part02_09.NumberOfNegativeNumbers"
+        },
+        {
+            "type": "java",
+            "name": "SumOfNumbers",
+            "request": "launch",
+            "mainClass": "SumOfNumbers",
+            "projectName": "Part02_10.SumOfNumbers"
+        },
+        {
+            "type": "java",
+            "name": "NumberAndSumOfNumbers",
+            "request": "launch",
+            "mainClass": "NumberAndSumOfNumbers",
+            "projectName": "Part02_11.NumberAndSumOfNumbers"
+        },
+        {
+            "type": "java",
+            "name": "AverageOfNumbers",
+            "request": "launch",
+            "mainClass": "AverageOfNumbers",
+            "projectName": "Part02_12.AverageOfNumbers"
+        },
+        {
+            "type": "java",
+            "name": "AverageOfPositiveNumbers",
+            "request": "launch",
+            "mainClass": "AverageOfPositiveNumbers",
+            "projectName": "Part02_13.AverageOfPositiveNumbers"
+        },
+        {
+            "type": "java",
+            "name": "Counting",
+            "request": "launch",
+            "mainClass": "Counting",
+            "projectName": "Part02_14.Counting"
+        },
+        {
+            "type": "java",
+            "name": "CountingToHundred",
+            "request": "launch",
+            "mainClass": "CountingToHundred",
+            "projectName": "Part02_15.CountingToHundred"
+        },
+        {
+            "type": "java",
+            "name": "FromWhereToWhere",
+            "request": "launch",
+            "mainClass": "FromWhereToWhere",
+            "projectName": "Part02_16.FromWhereToWhere"
+        },
+        {
+            "type": "java",
+            "name": "SumOfASequence",
+            "request": "launch",
+            "mainClass": "SumOfASequence",
+            "projectName": "Part02_17.SumOfASequence"
+        },
+        {
+            "type": "java",
+            "name": "SumOfASequenceTheSequel",
+            "request": "launch",
+            "mainClass": "SumOfASequenceTheSequel",
+            "projectName": "Part02_18.SumOfASequenceTheSequel"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "Factorial",
+            "projectName": "Part02_19.Factorial"
+        },
+        {
+            "type": "java",
+            "name": "RepeatingBreakingAndRemembering",
+            "request": "launch",
+            "mainClass": "RepeatingBreakingAndRemembering",
+            "projectName": "Part02_20.RepeatingBreakingAndRemembering"
+        },
+        {
+            "type": "java",
+            "name": "InAHoleInTheGround",
+            "request": "launch",
+            "mainClass": "InAHoleInTheGround",
+            "projectName": "Part02_21.InAHoleInTheGround"
+        },
+        {
+            "type": "java",
+            "name": "Reprint",
+            "request": "launch",
+            "mainClass": "Reprint",
+            "projectName": "Part02_22.Reprint"
+        },
+        {
+            "type": "java",
+            "name": "FromOneToParameter",
+            "request": "launch",
+            "mainClass": "FromOneToParameter",
+            "projectName": "Part02_23.FromOneToParameter"
+        },
+        {
+            "type": "java",
+            "name": "FromParameterToOne",
+            "request": "launch",
+            "mainClass": "FromParameterToOne",
+            "projectName": "Part02_24.FromParameterToOne"
+        },
+        {
+            "type": "java",
+            "name": "Division",
+            "request": "launch",
+            "mainClass": "Division",
+            "projectName": "Part02_25.Division"
+        },
+        {
+            "type": "java",
+            "name": "DivisibleByThree",
+            "request": "launch",
+            "mainClass": "DivisibleByThree",
+            "projectName": "Part02_26.DivisibleByThree"
+        },
+        {
+            "type": "java",
+            "name": "NumberUno",
+            "request": "launch",
+            "mainClass": "NumberUno",
+            "projectName": "Part02_27.NumberUno"
+        },
+        {
+            "type": "java",
+            "name": "Word",
+            "request": "launch",
+            "mainClass": "Word",
+            "projectName": "Part02_28.Word"
+        },
+        {
+            "type": "java",
+            "name": "Summation",
+            "request": "launch",
+            "mainClass": "Summation",
+            "projectName": "Part02_29.Summation"
+        },
+        {
+            "type": "java",
+            "name": "Smallest",
+            "request": "launch",
+            "mainClass": "Smallest",
+            "projectName": "Part02_30.Smallest"
+        },
+        {
+            "type": "java",
+            "name": "Greatest",
+            "request": "launch",
+            "mainClass": "Greatest",
+            "projectName": "Part02_31.Greatest"
+        },
+        {
+            "type": "java",
+            "name": "Averaging",
+            "request": "launch",
+            "mainClass": "Averaging",
+            "projectName": "Part02_32.Averaging"
+        },
+        {
+            "type": "java",
+            "name": "StarSign",
+            "request": "launch",
+            "mainClass": "StarSign",
+            "projectName": "Part02_33.StarSign"
+        },
+        {
+            "type": "java",
+            "name": "AdvancedAstrology",
+            "request": "launch",
+            "mainClass": "AdvancedAstrology",
+            "projectName": "Part02_34.AdvancedAstrology"
+        }
+    ]
+}
