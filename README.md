@@ -6,4 +6,4 @@ This repository contains my solutions for the [University of Helsinki Java Progr
 - [x] Part 1 -  Done
 - [x] Part 2 -  Done
 - [x] Part 4 -  Done
-- [] Part 5 - Starting soon!
+- [ ] Part 5 - Starting soon!
