@@ -1,7 +1,4 @@
 *.class
-bin/
-.idea/
 target/
-.settings/
-.project/
-.classpath/
+bin/
+build/
